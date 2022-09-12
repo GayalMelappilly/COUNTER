@@ -1,2 +1,3 @@
-# COUNTER
-Just increase or decrease the number.
+COUNTER.
+
+IT WON'T END.
